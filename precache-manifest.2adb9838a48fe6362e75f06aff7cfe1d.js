@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "446307c129b9b4e2f1076b658858b7ea",
+    "revision": "a680dbe03203906c4c3c6dfd75f40903",
     "url": "/yarandin-test/index.html"
   },
   {
