@@ -32,7 +32,7 @@ class Content extends React.Component {
   }
 
   fetchFilms = () => {    
-    fetch("https://swapi.dev/api/films")
+    fetch("//swapi.dev/api/films")
       .then(response => response.json())
       .then(res => this.setState({
           films: res.results
