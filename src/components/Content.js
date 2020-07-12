@@ -32,7 +32,7 @@ class Content extends React.Component {
   }
 
   fetchFilms = () => {    
-    fetch("//swapi.dev/api/films")
+    fetch('//swapi.dev/api/films')
       .then(response => response.json())
       .then(res => this.setState({
           films: res.results
@@ -90,6 +90,8 @@ class Content extends React.Component {
     if(this.state.films.length === 0) {
       return <ProgressCentered />
     }
+
+    console.log(this.state);
 
     return (
       <div className={classes.searchFild}>
