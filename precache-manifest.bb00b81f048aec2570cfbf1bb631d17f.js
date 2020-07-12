@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c8e365ac66de3308c4684b4fa2635f7",
+    "revision": "446307c129b9b4e2f1076b658858b7ea",
     "url": "/yarandin-test/index.html"
   },
   {
-    "revision": "e662acc0048e32c8334a",
+    "revision": "96318ef161457a60ea31",
     "url": "/yarandin-test/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yarandin-test/static/js/2.3a04cbe8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e662acc0048e32c8334a",
-    "url": "/yarandin-test/static/js/main.ca20bdb0.chunk.js"
+    "revision": "96318ef161457a60ea31",
+    "url": "/yarandin-test/static/js/main.f3944b14.chunk.js"
   },
   {
     "revision": "27817ba1ba4ef3e8febb",
