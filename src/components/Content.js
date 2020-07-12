@@ -91,8 +91,6 @@ class Content extends React.Component {
       return <ProgressCentered />
     }
 
-    console.log(this.state);
-
     return (
       <div className={classes.searchFild}>
         <TextField
